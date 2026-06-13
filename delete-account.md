@@ -2,7 +2,7 @@
 
 To delete your account and all associated data, send an email to:
 
-**abishek@mbyom.com**
+**clemenetabishek@gmail.com**
 
 **Subject:** Delete My Kred Account
 

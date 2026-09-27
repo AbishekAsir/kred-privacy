@@ -1,6 +1,6 @@
 # Privacy Policy for Kred
 
-**Last updated: June 13, 2026**
+**Last updated: September 27, 2026**
 
 ## 1. Introduction
 
@@ -12,6 +12,7 @@ Kred ("we", "our", or "us") is a loan tracking application. This Privacy Policy 
 - **Loan data:** Names, amounts, dates, and notes you enter for loans
 - **Contact data:** Only when you choose to pick a contact — we access your contacts solely to fill in borrower details and do not store your contact list
 - **Device data:** Basic device information for app functionality
+- **Advertising data:** If you are on the free plan, we show ads through Google AdMob, which collects your advertising ID and device information to select and measure ads. Premium subscribers do not see ads and this data is not collected for them. See [Google's Partner Policy](https://policies.google.com/technologies/partner-sites) for how Google uses this data.
 
 ## 3. How We Use Your Information
 

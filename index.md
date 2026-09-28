@@ -44,4 +44,4 @@ We may update this policy from time to time. We will notify you of any significa
 ## 9. Contact Us
 
 If you have any questions about this Privacy Policy, contact us at:
-**abishek@mbyom.com**
+**clementabishek@gmail.com**
